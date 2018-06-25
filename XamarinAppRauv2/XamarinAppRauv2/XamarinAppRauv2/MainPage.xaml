@@ -4,11 +4,16 @@
              xmlns:local="clr-namespace:XamarinAppRauv2"
              x:Class="XamarinAppRauv2.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-    	<Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <StackLayout>
+                <Image Source="infimg1.jpg" WidthRequest="400" HeightRequest="250"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Sign with FaceBook" x:Name="btnLogar" Clicked="btnLogar_Clicked" BackgroundColor="Blue" TextColor="White"/>
+                <Button Text="Sign with Google" x:Name="btnLoginGoogle" Clicked="btnLoginGoogle_Clicked" BackgroundColor="Orange" TextColor="White"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
 
 </ContentPage>
