@@ -1,10 +1,10 @@
-C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\obj\Debug\AppRauSach.Android.csprojAssemblyReference.cache
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\bin\Debug\AppRauSach.Android.dll
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\bin\Debug\AppRauSach.Android.pdb
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\bin\Debug\com.companyname.AppRauSach.apk
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\bin\Debug\com.companyname.AppRauSach-Signed.apk
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\bin\Debug\AppRauSach.dll
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\bin\Debug\AppRauSach.pdb
+C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\obj\Debug\AppRauSach.Android.csprojAssemblyReference.cache
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\obj\Debug\AppRauSach.Android.csproj.CoreCompileInputs.cache
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\obj\Debug\AppRauSach.Android.csproj.CopyComplete
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach.Android\obj\Debug\AppRauSach.Android.dll

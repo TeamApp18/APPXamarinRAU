@@ -1,8 +1,8 @@
-C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.csproj.CoreCompileInputs.cache
-C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.AssemblyInfoInputs.cache
-C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.AssemblyInfo.cs
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\bin\Debug\netstandard2.0\AppRauSach.deps.json
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\bin\Debug\netstandard2.0\AppRauSach.dll
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\bin\Debug\netstandard2.0\AppRauSach.pdb
+C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.csproj.CoreCompileInputs.cache
+C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.AssemblyInfoInputs.cache
+C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.AssemblyInfo.cs
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.dll
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.pdb
