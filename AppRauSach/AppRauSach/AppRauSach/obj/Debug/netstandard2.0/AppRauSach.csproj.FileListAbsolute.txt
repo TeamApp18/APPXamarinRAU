@@ -6,3 +6,4 @@ C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRa
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.AssemblyInfo.cs
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.dll
 C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.pdb
+C:\APPXamarinRAU\AppRauSach\AppRauSach\AppRauSach\obj\Debug\netstandard2.0\AppRauSach.csprojAssemblyReference.cache
