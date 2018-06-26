@@ -14,3 +14,11 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netst
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Profile.xaml.g.cs
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Profile2.xaml.g.cs
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Introduction.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Product.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Product_Cu.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Product_Qua.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Product_Rau.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Detail_Cu.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Detail_Qua.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Detail_Rau.xaml.g.cs

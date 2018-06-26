@@ -16,5 +16,15 @@ namespace XamarinAppRauv2
 		{
 			InitializeComponent ();
 		}
-	}
+
+        private void ClickProduct(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Product());
+        }
+
+        private void ClickIntroduction(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Introduction());
+        }
+    }
 }
