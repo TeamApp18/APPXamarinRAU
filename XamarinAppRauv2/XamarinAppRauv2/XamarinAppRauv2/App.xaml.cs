@@ -12,7 +12,7 @@ namespace XamarinAppRauv2
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new MainMenu());
         }
 
         protected override void OnStart()
