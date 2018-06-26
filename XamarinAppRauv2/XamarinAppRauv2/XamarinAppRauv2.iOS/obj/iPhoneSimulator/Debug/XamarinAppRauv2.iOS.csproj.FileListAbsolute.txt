@@ -56,3 +56,4 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneS
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamarinAppRauv2.iOS.pdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.dll
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
