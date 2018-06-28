@@ -13,6 +13,7 @@
   <ItemGroup>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <EmbeddedResource Update="Views\Detail_Cu.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -29,12 +30,15 @@
 >>>>>>> parent of f23a7e2... Xamarin 26/6
 =======
 >>>>>>> parent of f23a7e2... Xamarin 26/6
+=======
+>>>>>>> parent of f23a7e2... Xamarin 26/6
     <EmbeddedResource Update="Login.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\MainMenu.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <EmbeddedResource Update="Views\Product.xaml">
@@ -49,6 +53,8 @@
     <EmbeddedResource Update="Views\Product_Rau.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+=======
+>>>>>>> parent of f23a7e2... Xamarin 26/6
 =======
 >>>>>>> parent of f23a7e2... Xamarin 26/6
 =======
