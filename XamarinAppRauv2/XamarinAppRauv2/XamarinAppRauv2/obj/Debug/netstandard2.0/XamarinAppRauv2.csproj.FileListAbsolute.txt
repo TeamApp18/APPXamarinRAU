@@ -13,6 +13,7 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netst
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\XamlC.stamp
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\XamarinAppRauv2.dll
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\XamarinAppRauv2.pdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\XamarinAppRauv2.csprojAssemblyReference.cache
@@ -35,5 +36,7 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netst
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Views\Product_Cu.xaml.g.cs
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Views\Product_Qua.xaml.g.cs
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Views\Product_Rau.xaml.g.cs
+=======
+>>>>>>> parent of f23a7e2... Xamarin 26/6
 =======
 >>>>>>> parent of f23a7e2... Xamarin 26/6
