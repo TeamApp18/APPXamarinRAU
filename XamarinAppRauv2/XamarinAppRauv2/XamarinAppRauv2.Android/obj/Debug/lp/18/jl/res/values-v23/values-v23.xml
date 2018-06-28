@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="android:TextAppearance.Material.Widget.ActionBar.Menu"/>
@@ -36,3 +37,6 @@
     <style name="Base.Widget.AppCompat.RatingBar.Small" parent="android:Widget.Material.RatingBar.Small"/>
     <style name="Base.Widget.AppCompat.Spinner.Underlined" parent="android:Widget.Material.Spinner.Underlined"/>
 </resources>
+=======
+<resources><style name="CardView" parent="Base.CardView"><item name="cardBackgroundColor">?android:attr/colorBackgroundFloating</item></style></resources>
+>>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb

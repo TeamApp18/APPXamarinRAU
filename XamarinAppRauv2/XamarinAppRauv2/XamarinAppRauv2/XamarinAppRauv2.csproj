@@ -11,34 +11,34 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Detail_Cu.xaml">
+    <EmbeddedResource Update="Views\Detail_Cu.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Detail_Qua.xaml">
+    <EmbeddedResource Update="Views\Detail_Qua.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Detail_Rau.xaml">
+    <EmbeddedResource Update="Views\Detail_Rau.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Introduction.xaml">
+    <EmbeddedResource Update="Views\Introduction.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Login.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="MainMenu.xaml">
+    <EmbeddedResource Update="Views\MainMenu.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Product.xaml">
+    <EmbeddedResource Update="Views\Product.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Product_Cu.xaml">
+    <EmbeddedResource Update="Views\Product_Cu.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Product_Qua.xaml">
+    <EmbeddedResource Update="Views\Product_Qua.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Product_Rau.xaml">
+    <EmbeddedResource Update="Views\Product_Rau.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Profile.xaml">
