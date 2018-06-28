@@ -1,7 +1,5 @@
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\XamarinAppRauv2.iOS.exe
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\XamarinAppRauv2.iOS.pdb
-C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.dll
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
@@ -53,7 +51,9 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneS
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\optimized\
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamarinAppRauv2.iOS.csprojAssemblyReference.cache
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamarinAppRauv2.iOS.csproj.CoreCompileInputs.cache
-C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamarinAppRauv2.iOS.csproj.CopyComplete
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamarinAppRauv2.iOS.exe
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamarinAppRauv2.iOS.pdb
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.dll
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp

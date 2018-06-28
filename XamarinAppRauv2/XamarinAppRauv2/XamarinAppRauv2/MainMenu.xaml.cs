@@ -10,14 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace XamarinAppRauv2
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class Detail_Qua : ContentPage
+	public partial class MainMenu : ContentPage
 	{
-		public Detail_Qua (string ContactImage, string Name, double Cost)
+		public MainMenu ()
 		{
 			InitializeComponent ();
-            imgfruit.Source = ContactImage;
-            NameEntry.Text = Name;
-            CostEntry.Text = Cost.ToString();
-        }
+		}
 	}
 }
