@@ -24,6 +24,7 @@ namespace XamarinAppRauv2
 
         private void ClickIntroduction(object sender, EventArgs e)
         {
+
             Navigation.PushAsync(new Introduction());
         }
     }
