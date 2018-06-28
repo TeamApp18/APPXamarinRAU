@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAppRauv2.Android", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAppRauv2.iOS", "XamarinAppRauv2\XamarinAppRauv2.iOS\XamarinAppRauv2.iOS.csproj", "{9CBCCAED-D9A7-4E74-BB5E-6D6E9DD92487}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinAppRauv2", "XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.csproj", "{506727B2-66D4-408B-B24E-348F587413E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAppRauv2", "XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.csproj", "{506727B2-66D4-408B-B24E-348F587413E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

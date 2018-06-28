@@ -119,11 +119,8 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\rau5main.jpg" />
   </ItemGroup>
-<<<<<<< HEAD
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\buaan.jpg" />
   </ItemGroup>
-=======
->>>>>>> 619e8400220824ae864c02be66d1a5fd7210bbe7
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
