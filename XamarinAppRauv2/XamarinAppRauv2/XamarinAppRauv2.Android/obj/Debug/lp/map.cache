@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-System.Runtime
-XamarinAppRauv2
-FormsViewGroup
-Newtonsoft.Json
-=======
 FormsViewGroup
 Newtonsoft.Json
 System.Runtime
->>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime
@@ -33,8 +26,5 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
-<<<<<<< HEAD
-=======
 XamarinAppRauv2
 netstandard
->>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
