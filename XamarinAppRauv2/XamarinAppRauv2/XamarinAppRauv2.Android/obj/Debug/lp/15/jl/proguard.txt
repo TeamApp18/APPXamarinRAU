@@ -12,6 +12,18 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+<<<<<<< HEAD
+# Prevent Parcelable objects from being removed or renamed.
+-keep class android.support.v4.media.** implements android.os.Parcelable {
+    public static final android.os.Parcelable$Creator *;
+}
+=======
+<<<<<<< HEAD
+# Prevent Parcelable objects from being removed or renamed.
+-keep class android.support.v4.media.** implements android.os.Parcelable {
+    public static final android.os.Parcelable$Creator *;
+}
+=======
 # FragmentTransitionSupport is instantiated in support-fragment via reflection.
 -keep public class android.support.transition.FragmentTransitionSupport {
 }
@@ -20,3 +32,5 @@
 -keepclassmembers class android.support.transition.ChangeBounds$* extends android.animation.AnimatorListenerAdapter {
   android.support.transition.ChangeBounds$ViewBounds mViewBounds;
 }
+>>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64

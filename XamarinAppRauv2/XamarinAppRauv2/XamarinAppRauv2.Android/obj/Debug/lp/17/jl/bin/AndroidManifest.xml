@@ -1,6 +1,18 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2014 The Android Open Source Project
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2014 The Android Open Source Project
+=======
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--
  Copyright (C) 2012 The Android Open Source Project
+>>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,7 +26,17 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<<<<<<< HEAD
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.support.v4" >
+=======
+<<<<<<< HEAD
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.support.v4" >
+=======
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="android.support.v7.appcompat">
+>>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
 
     <uses-sdk android:minSdkVersion="14" />
 

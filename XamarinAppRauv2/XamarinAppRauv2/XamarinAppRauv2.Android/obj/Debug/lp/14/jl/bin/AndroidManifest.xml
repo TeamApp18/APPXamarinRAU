@@ -14,7 +14,15 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<<<<<<< HEAD
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="android.support.fragment">
+=======
+<<<<<<< HEAD
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="android.support.fragment">
+=======
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="android.support.mediacompat">
+>>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
 
     <uses-sdk android:minSdkVersion="14" />
 

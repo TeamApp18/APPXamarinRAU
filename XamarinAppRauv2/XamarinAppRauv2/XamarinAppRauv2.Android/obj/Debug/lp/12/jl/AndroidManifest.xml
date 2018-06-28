@@ -14,8 +14,24 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="android.support.customtabs">
+
+    <uses-sdk android:minSdkVersion="15" />
+
+    <application>
+        <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    </application>
+<<<<<<< HEAD
+=======
+=======
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="android.support.design">
 
     <uses-sdk android:minSdkVersion="14" />
+>>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
 
 </manifest>
