@@ -23,7 +23,7 @@
                 <StackLayout Grid.Row="0" Grid.Column="0" BackgroundColor="Red" Orientation="Vertical">
                     <Image Source="rau5main.jpg" HorizontalOptions="Center" VerticalOptions="Center">
                         <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="ClickProduct"/>
+                            <TapGestureRecognizer Command="{Binding }"/>
                         </Image.GestureRecognizers>
                     </Image>
                     <Label Text="Sản phẩm"/>
