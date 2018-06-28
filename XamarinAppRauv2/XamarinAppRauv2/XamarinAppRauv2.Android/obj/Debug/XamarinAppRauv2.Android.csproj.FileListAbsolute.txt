@@ -4,6 +4,10 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Deb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\com.companyname.XamarinAppRauv2-Signed.apk
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\XamarinAppRauv2.dll
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\XamarinAppRauv2.pdb
+<<<<<<< HEAD
+=======
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\XamarinAppRauv2.Android.csprojAssemblyReference.cache
+>>>>>>> parent of e8dc570... app xamarin rau sach
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\XamarinAppRauv2.Android.csproj.CoreCompileInputs.cache
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\XamlC.stamp
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\XamarinAppRauv2.Android.csproj.CopyComplete
@@ -80,7 +84,10 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Deb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\XamarinAppRauv2.Android.dll.mdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+<<<<<<< HEAD
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\XamarinAppRauv2.Android.csprojAssemblyReference.cache
+=======
+>>>>>>> parent of e8dc570... app xamarin rau sach
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\XamarinAppRauv2.Android.dll.mdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
@@ -106,7 +113,13 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Deb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\android\assets\XamarinAppRauv2.pdb
+<<<<<<< HEAD
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\XamarinAppRauv2.Android.dll
+=======
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\res\drawable\buaan.jpg
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\XamarinAppRauv2.Android.dll
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\XamarinAppRauv2.pdb
+>>>>>>> parent of e8dc570... app xamarin rau sach
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\XamarinAppRauv2.Android.dll.mdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
