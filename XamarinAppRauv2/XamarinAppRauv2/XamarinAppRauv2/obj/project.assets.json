@@ -422,7 +422,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nghiep\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -430,11 +431,14 @@
       "projectUniqueName": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.csproj",
       "projectName": "XamarinAppRauv2",
       "projectPath": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.csproj",
-      "packagesPath": "C:\\Users\\Nghiep\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Nghiep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -484,5 +488,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2\\obj\\XamarinAppRauv2.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
