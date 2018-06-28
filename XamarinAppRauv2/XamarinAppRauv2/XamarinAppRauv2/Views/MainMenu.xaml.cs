@@ -16,6 +16,7 @@ namespace XamarinAppRauv2
 		{
 			InitializeComponent ();
 		}
+<<<<<<< HEAD:XamarinAppRauv2/XamarinAppRauv2/XamarinAppRauv2/Views/MainMenu.xaml.cs
 
         private void ClickProduct(object sender, EventArgs e)
         {
@@ -28,4 +29,7 @@ namespace XamarinAppRauv2
             Navigation.PushAsync(new Introduction());
         }
     }
+=======
+	}
+>>>>>>> parent of f23a7e2... Xamarin 26/6:XamarinAppRauv2/XamarinAppRauv2/XamarinAppRauv2/MainMenu.xaml.cs
 }
