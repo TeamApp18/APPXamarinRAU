@@ -23,7 +23,7 @@
           "lib/Xamarin.iOS10/Xamarin.Auth.dll": {}
         }
       },
-      "Xamarin.Forms/3.0.0.482510": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -184,7 +184,7 @@
           "lib/Xamarin.iOS10/Xamarin.Auth.dll": {}
         }
       },
-      "Xamarin.Forms/3.0.0.482510": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -345,7 +345,7 @@
           "lib/Xamarin.iOS10/Xamarin.Auth.dll": {}
         }
       },
-      "Xamarin.Forms/3.0.0.482510": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -506,7 +506,7 @@
           "lib/Xamarin.iOS10/Xamarin.Auth.dll": {}
         }
       },
-      "Xamarin.Forms/3.0.0.482510": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -703,11 +703,12 @@
         "xamarin.auth.nuspec"
       ]
     },
-    "Xamarin.Forms/3.0.0.482510": {
-      "sha512": "kq209d8qVvulrY3o+nGirENZ3kaZpEN7VWRErWcW1M+ahtDgm4BUXQJ5s9hnp1SAGxQMTMhDAVI3uk5g9NV7hA==",
+    "Xamarin.Forms/3.1.0.583944": {
+      "sha512": "q4AGFr8k9z6v5u++COV6M5TEZ8Oh8iiU3inVysapL5j75bhKfbcU2RizgZxTQ7+2CdlzVK+Dz+nyFx4JFh0Cwg==",
       "type": "package",
-      "path": "xamarin.forms/3.0.0.482510",
+      "path": "xamarin.forms/3.1.0.583944",
       "files": [
+        ".signature.p7s",
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
         "build/netstandard1.0/Mono.Cecil.Pdb.dll",
         "build/netstandard1.0/Mono.Cecil.Rocks.dll",
@@ -843,12 +844,13 @@
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Resources.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/SliderStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Xamarin.Forms.Platform.UAP.xr.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.3.0.0.482510.nupkg.sha512",
+        "xamarin.forms.3.1.0.583944.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -862,12 +864,12 @@
     "Xamarin.iOS,Version=v1.0": [
       "Newtonsoft.Json >= 11.0.2",
       "Xamarin.Auth >= 1.6.0.2",
-      "Xamarin.Forms >= 3.0.0.482510",
+      "Xamarin.Forms >= 3.1.0.583944",
       "XamarinAppRauv2 >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nghiep\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -875,12 +877,12 @@
       "projectUniqueName": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.iOS\\XamarinAppRauv2.iOS.csproj",
       "projectName": "XamarinAppRauv2.iOS",
       "projectPath": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.iOS\\XamarinAppRauv2.iOS.csproj",
-      "packagesPath": "C:\\Users\\Nghiep\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Nghiep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -913,7 +915,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.0.0.482510, )"
+            "version": "[3.1.0.583944, )"
           }
         }
       }
@@ -929,20 +931,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 3.1.0.583944 to 3.0.0.482510. Reference the package directly from the project to select a different version. \r\n XamarinAppRauv2.iOS -> XamarinAppRauv2 -> Xamarin.Forms (>= 3.1.0.583944) \r\n XamarinAppRauv2.iOS -> Xamarin.Forms (>= 3.0.0.482510)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0",
-        "Xamarin.iOS,Version=v1.0/win",
-        "Xamarin.iOS,Version=v1.0/win-x64",
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    }
-  ]
+  }
 }

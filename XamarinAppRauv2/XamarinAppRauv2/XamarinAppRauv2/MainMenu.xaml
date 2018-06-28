@@ -8,16 +8,16 @@
             <Grid Padding="40" RowSpacing="30" ColumnSpacing="20">
                 <Grid>
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="80"/>
-                        <RowDefinition Height="80"/>
-                        <RowDefinition Height="80"/>
-                        <RowDefinition Height="80"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
                     </Grid.RowDefinitions>
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="80"/>
-                        <ColumnDefinition Width="80"/>
-                        <ColumnDefinition Width="80"/>
-                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
                 </Grid>
                 <StackLayout Grid.Row="0" Grid.Column="0" BackgroundColor="Red" Orientation="Vertical">
