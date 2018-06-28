@@ -422,7 +422,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\haong\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -431,14 +431,14 @@
       "projectUniqueName": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.csproj",
       "projectName": "XamarinAppRauv2",
       "projectPath": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\haong\\.nuget\\packages\\",
       "outputPath": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\haong\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
