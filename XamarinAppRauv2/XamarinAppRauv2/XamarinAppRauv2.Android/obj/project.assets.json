@@ -873,7 +873,11 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\haong\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Nghiep\\.nuget\\packages\\": {}
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
   },
   "project": {
     "version": "1.0.0",
@@ -881,12 +885,20 @@
       "projectUniqueName": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.Android\\XamarinAppRauv2.Android.csproj",
       "projectName": "XamarinAppRauv2.Android",
       "projectPath": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.Android\\XamarinAppRauv2.Android.csproj",
+<<<<<<< HEAD
       "packagesPath": "C:\\Users\\haong\\.nuget\\packages\\",
+=======
+      "packagesPath": "C:\\Users\\Nghiep\\.nuget\\packages\\",
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
       "outputPath": "C:\\APPXamarinRAU\\XamarinAppRauv2\\XamarinAppRauv2\\XamarinAppRauv2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\haong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Nghiep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

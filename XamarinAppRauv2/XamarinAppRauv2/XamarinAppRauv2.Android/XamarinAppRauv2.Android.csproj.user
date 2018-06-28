@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
+<<<<<<< HEAD
     <SelectedDevice>HUAWEI RNE-L22 Player</SelectedDevice>
     <DefaultDevice>my_device</DefaultDevice>
+=======
+    <SelectedDevice>Genymotion Custom Phone - 4.4.4 - API 19 - 768x1280</SelectedDevice>
+    <DefaultDevice>xaml</DefaultDevice>
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
   </PropertyGroup>
 </Project>

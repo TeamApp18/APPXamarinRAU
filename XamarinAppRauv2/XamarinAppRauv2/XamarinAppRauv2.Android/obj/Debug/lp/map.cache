@@ -1,7 +1,19 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
 System.Runtime
 XamarinAppRauv2
 FormsViewGroup
 Newtonsoft.Json
+<<<<<<< HEAD
+=======
+=======
+FormsViewGroup
+Newtonsoft.Json
+System.Runtime
+>>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime
@@ -27,3 +39,11 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+XamarinAppRauv2
+netstandard
+>>>>>>> 642e3892b40e31b8e283a9c8cff684aea476c7eb
+>>>>>>> e0357a2a1446ee1aac2971ab030cad60adecce64
