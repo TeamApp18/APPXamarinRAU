@@ -3,16 +3,19 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
 [assembly: XamlCompilation (XamlCompilationOptions.Compile)]
 namespace XamarinAppRauv2
 {
     public partial class App : Application
     {
+        public static NavigationPage Navigator { get; internal set; }
+
         public App()
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainMenu());
+            MainPage = new Pages.MasterPages();
         }
 
         protected override void OnStart()

@@ -107,7 +107,6 @@ F:\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\Sys
 F:\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
 F:\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
 F:\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\linksrc\XamarinAppRauv2.pdb
-C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\XamarinAppRauv2.Android.csprojAssemblyReference.cache
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\XamarinAppRauv2.Android.dll
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\XamarinAppRauv2.Android.pdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\com.companyname.XamarinAppRauv2.apk
@@ -145,6 +144,7 @@ C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Deb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\R.cs.flag
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\R.txt
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\uploadflags.txt
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\obj\Debug\XamarinAppRauv2.Android.csprojAssemblyReference.cache
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\Mono.Android.pdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\mscorlib.pdb
 C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2.Android\bin\Debug\System.Core.pdb

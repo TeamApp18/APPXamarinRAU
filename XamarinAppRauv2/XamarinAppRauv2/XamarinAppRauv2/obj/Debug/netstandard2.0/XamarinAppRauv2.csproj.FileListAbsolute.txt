@@ -58,3 +58,8 @@ F:\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Xama
 F:\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\XamlC.stamp
 F:\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\XamarinAppRauv2.dll
 F:\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\XamarinAppRauv2.pdb
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Pages\MainPages.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Pages\MasterPage.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Pages\MenuPages.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Pages\MasterPages.xaml.g.cs
+C:\APPXamarinRAU\XamarinAppRauv2\XamarinAppRauv2\XamarinAppRauv2\obj\Debug\netstandard2.0\Pages\MainMenu.xaml.g.cs

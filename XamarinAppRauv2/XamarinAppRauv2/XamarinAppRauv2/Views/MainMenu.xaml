@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamarinAppRauv2.MainMenu"
-             Title="Menu">
+             Title="Rau Sạch">
     <ContentPage.Content>
         <StackLayout>
             <Grid Padding="40" RowSpacing="30" ColumnSpacing="20">

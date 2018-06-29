@@ -3,6 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamarinAppRauv2.App">
 	<Application.Resources>
-    
+        <ResourceDictionary>
+            <Color x:Key="MainColor">#8cff66</Color>
+            <Color x:Key="FontMainColor">#111111</Color>
+            <Color x:Key="MenuColor">#ffffff</Color>
+            <Color x:Key="FontMenuColor">#FDB1A4</Color>
+            <Color x:Key="BackgroundColor">#ffffff</Color>
+            <Color x:Key="AccentColor">#B22E2F</Color>
+        </ResourceDictionary> 
 	</Application.Resources>
 </Application>
