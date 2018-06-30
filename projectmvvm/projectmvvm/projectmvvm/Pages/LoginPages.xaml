@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projectmvvm.Pages.LoginPages"
+             Title="Login Vegetables"
+             BackgroundColor="#FDF5E6"
+             BindingContext="{Binding Main, Source={StaticResource Locator}}">
+    <ContentPage.Content>
+        <StackLayout Padding="10" Spacing="20">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Label Text="Shop Rau Sạch" TextColor="{StaticResource FontColor}" 
+                   FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center" />
+                <Image Source="ic_AppNew.png" WidthRequest="50" HeightRequest="50" HorizontalOptions="Center" VerticalOptions="Center"
+                    />
+            </StackLayout>
+            <BoxView HeightRequest="3" BackgroundColor="{StaticResource AccentColor}">
+            </BoxView>
+            <Entry Placeholder="Email@gmail.com" TextColor="{StaticResource FontColor}"/>
+            <Entry Placeholder="Password"  TextColor="{StaticResource FontColor}" IsPassword="True"/>
+            <Button Text="Login" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Remember Pass" TextColor="{StaticResource FontColor}" HorizontalOptions="StartAndExpand" VerticalOptions="Center"/>
+                <Switch HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

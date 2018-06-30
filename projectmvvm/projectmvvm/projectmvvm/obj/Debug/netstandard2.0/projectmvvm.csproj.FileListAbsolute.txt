@@ -31,3 +31,5 @@ C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Pa
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Pages\OrderPages.xaml.g.cs
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Pages\MessagePages.xaml.g.cs
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\projectmvvm.csprojAssemblyReference.cache
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Pages\LoginPages.xaml.g.cs
