@@ -31,3 +31,11 @@ C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Pa
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Pages\OrderPages.xaml.g.cs
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Pages\MessagePages.xaml.g.cs
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\projectmvvm.csprojAssemblyReference.cache
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Page Details\Fruit_Details.xaml.g.cs
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Page Details\Tubers_Details.xaml.g.cs
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Page Details\Vegetables_Details.xaml.g.cs
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Page ListProduct\Fruit.xaml.g.cs
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Page ListProduct\Tubers.xaml.g.cs
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm\obj\Debug\netstandard2.0\Page ListProduct\Vegetables.xaml.g.cs

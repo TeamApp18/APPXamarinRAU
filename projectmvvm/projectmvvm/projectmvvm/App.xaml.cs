@@ -1,3 +1,6 @@
+using projectmvvm.Class;
+using projectmvvm.Page_Details;
+using projectmvvm.Page_ListProduct;
 using projectmvvm.Pages;
 using System;
 using Xamarin.Forms;

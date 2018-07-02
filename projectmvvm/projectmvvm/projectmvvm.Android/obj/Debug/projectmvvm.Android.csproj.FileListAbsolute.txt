@@ -251,6 +251,12 @@ C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\android\a
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\android\assets\System.Xml.pdb
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\res\drawable\rau003.jpg
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\res\drawable\cu.jpg
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\res\drawable\nhan.jpg
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\res\drawable\qua001.jpg
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\res\drawable\rau001.jpg
+C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\res\drawable\rau002.jpg
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\bin\Debug\projectmvvm.Android.dll
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\linksrc\projectmvvm.pdb
 C:\APPXamarinRAU\projectmvvm\projectmvvm\projectmvvm.Android\obj\Debug\linksrc\projectmvvm.Android.dll.mdb

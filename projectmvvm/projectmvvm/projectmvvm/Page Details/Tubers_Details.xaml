@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projectmvvm.Page_Details.Tubers_Details"
+             Title="Thông tin sản phẩm"
+             >
+    <Grid Padding="20" ColumnSpacing="10" RowSpacing="20" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackLayout
+            Orientation="Vertical" 
+            Margin="10" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Start" 
+            Grid.Row="0"
+            Grid.ColumnSpan="4"
+            >
+            <Image x:Name="Details_ImageTubers" Source="rau001.jpg" />
+            <Label 
+                   x:Name="Details_NameTubers"
+                   TextColor="DarkGreen"
+                   HorizontalOptions="Center" 
+                   FontSize="25" 
+                   FontAttributes="Bold"
+                   Margin="0,10,0,0"
+                   />
+        </StackLayout>
+
+        <StackLayout 
+            Orientation="Vertical" 
+            HorizontalOptions="Center"
+            Grid.Row="1"
+            Grid.Column="0"
+            Grid.ColumnSpan="4"
+            >
+            <Label Text="Thông tin sản phẩm - giá đơn vị (kilôgam)" TextColor="Black" />
+            <Label x:Name="Details_DescribeTubers" HorizontalTextAlignment="Center" FontAttributes="Italic" />
+            <Label Text="Giá sản phẩm:" TextColor="Black" />
+            <Label x:Name="Details_PriceTubers" TextColor="Red"  />
+
+            <Label Text="Bạn tiết kiệm: 1.000 VNÐ " TextColor="Black" />
+
+            <Label Text="Giá với số điểm: " TextColor="Black"  />
+            <Label x:Name="Details_PointTubers" TextColor="Black"  />
+
+            <Label Text="Mã:" TextColor="Black" />
+            <Label x:Name="Details_IdTubers" TextColor="Black"  />
+
+            <Label Text="Tồn kho:" TextColor="Black"  />
+            <Label x:Name="Details_InventoryTubers" TextColor="Black"  />
+
+        </StackLayout>
+
+        <StackLayout 
+            Grid.Row="2" 
+            Grid.Column="0" 
+            Grid.ColumnSpan="4"  
+            Orientation="Horizontal"
+            >
+            <Label 
+                Text="Số lượng: " 
+                TextColor="Black"
+                VerticalTextAlignment="Center"
+                />
+            <Stepper x:Name="stepper_soluong" Minimum="1" Maximum="99" />
+            <Label 
+                Text="{Binding Source={x:Reference stepper_soluong},Path=Value}"
+                TextColor="Red"
+                VerticalTextAlignment="Center"
+                FontAttributes="Bold"
+                FontSize="15"
+                
+                />
+            <Label Text="KG" TextColor="Blue" VerticalTextAlignment="Center" />
+        </StackLayout>
+
+        <StackLayout 
+            Orientation="Horizontal" 
+            HorizontalOptions="Center"
+            Grid.Row="3"
+            Grid.Column="0"
+            Grid.ColumnSpan="4"
+            >
+            <Button Text="Thêm vào giỏ" Grid.Row="2" BackgroundColor="#0982d0" TextColor="White"  />
+            <Button Text="Mua ngay" Grid.Row="2" BackgroundColor="#0982d0" TextColor="White"  />
+        </StackLayout>
+
+        <StackLayout 
+            Orientation="Horizontal"
+            HorizontalOptions="Center"
+            Grid.Row="4"
+            Grid.Column="0"
+            Grid.ColumnSpan="4"
+            >
+            <Button Text="Yêu thích" Grid.Row="3"  BackgroundColor="HotPink" TextColor="White" />
+            <Button Text="So sánh" Grid.Row="3" BackgroundColor="#0982d0" TextColor="White" />
+        </StackLayout>
+    </Grid>
+</ContentPage>

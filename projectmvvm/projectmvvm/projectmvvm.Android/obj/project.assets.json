@@ -1094,7 +1094,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nghiep\\.nuget\\packages\\": {}
+    "C:\\Users\\haong\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1102,12 +1102,12 @@
       "projectUniqueName": "C:\\APPXamarinRAU\\projectmvvm\\projectmvvm\\projectmvvm.Android\\projectmvvm.Android.csproj",
       "projectName": "projectmvvm.Android",
       "projectPath": "C:\\APPXamarinRAU\\projectmvvm\\projectmvvm\\projectmvvm.Android\\projectmvvm.Android.csproj",
-      "packagesPath": "C:\\Users\\Nghiep\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\haong\\.nuget\\packages\\",
       "outputPath": "C:\\APPXamarinRAU\\projectmvvm\\projectmvvm\\projectmvvm.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Nghiep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\haong\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

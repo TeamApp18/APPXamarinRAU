@@ -628,7 +628,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nghiep\\.nuget\\packages\\": {}
+    "C:\\Users\\haong\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -636,11 +637,14 @@
       "projectUniqueName": "C:\\APPXamarinRAU\\projectmvvm\\projectmvvm\\projectmvvm\\projectmvvm.csproj",
       "projectName": "projectmvvm",
       "projectPath": "C:\\APPXamarinRAU\\projectmvvm\\projectmvvm\\projectmvvm\\projectmvvm.csproj",
-      "packagesPath": "C:\\Users\\Nghiep\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\haong\\.nuget\\packages\\",
       "outputPath": "C:\\APPXamarinRAU\\projectmvvm\\projectmvvm\\projectmvvm\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Nghiep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\haong\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

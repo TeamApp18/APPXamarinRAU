@@ -2345,6 +2345,9 @@ namespace projectmvvm.Droid
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
 			
+			// aapt resource value: 0x7F010002
+			public const int cu = 2130771970;
+			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
 			
@@ -2363,8 +2366,8 @@ namespace projectmvvm.Droid
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010002
-			public const int ic_AppNew = 2130771970;
+			// aapt resource value: 0x7F010003
+			public const int ic_AppNew = 2130771971;
 			
 			// aapt resource value: 0x7F090054
 			public const int ic_audiotrack_dark = 2131296340;
@@ -2378,8 +2381,8 @@ namespace projectmvvm.Droid
 			// aapt resource value: 0x7F090057
 			public const int ic_dialog_close_light = 2131296343;
 			
-			// aapt resource value: 0x7F010003
-			public const int ic_DonHang = 2130771971;
+			// aapt resource value: 0x7F010004
+			public const int ic_DonHang = 2130771972;
 			
 			// aapt resource value: 0x7F090058
 			public const int ic_group_collapse_00 = 2131296344;
@@ -2477,8 +2480,8 @@ namespace projectmvvm.Droid
 			// aapt resource value: 0x7F090077
 			public const int ic_group_expand_15 = 2131296375;
 			
-			// aapt resource value: 0x7F010004
-			public const int ic_launcher = 2130771972;
+			// aapt resource value: 0x7F010005
+			public const int ic_launcher = 2130771973;
 			
 			// aapt resource value: 0x7F090078
 			public const int ic_media_pause_dark = 2131296376;
@@ -2498,8 +2501,8 @@ namespace projectmvvm.Droid
 			// aapt resource value: 0x7F09007D
 			public const int ic_media_stop_light = 2131296381;
 			
-			// aapt resource value: 0x7F010005
-			public const int ic_Message = 2130771973;
+			// aapt resource value: 0x7F010006
+			public const int ic_Message = 2130771974;
 			
 			// aapt resource value: 0x7F09007E
 			public const int ic_mr_button_connected_00_dark = 2131296382;
@@ -2888,14 +2891,14 @@ namespace projectmvvm.Droid
 			// aapt resource value: 0x7F0900FE
 			public const int ic_mr_button_grey = 2131296510;
 			
-			// aapt resource value: 0x7F010006
-			public const int ic_MyAccout = 2130771974;
-			
 			// aapt resource value: 0x7F010007
-			public const int ic_Product = 2130771975;
+			public const int ic_MyAccout = 2130771975;
 			
 			// aapt resource value: 0x7F010008
-			public const int ic_ProductLike = 2130771976;
+			public const int ic_Product = 2130771976;
+			
+			// aapt resource value: 0x7F010009
+			public const int ic_ProductLike = 2130771977;
 			
 			// aapt resource value: 0x7F0900FF
 			public const int ic_vol_type_speaker_dark = 2131296511;
@@ -2978,6 +2981,9 @@ namespace projectmvvm.Droid
 			// aapt resource value: 0x7F09005C
 			public const int navigation_empty_icon = 2131296348;
 			
+			// aapt resource value: 0x7F010010
+			public const int nhan = 2130771984;
+			
 			// aapt resource value: 0x7F090001
 			public const int notification_action_background = 2131296257;
 			
@@ -3013,6 +3019,18 @@ namespace projectmvvm.Droid
 			
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
+			
+			// aapt resource value: 0x7F010011
+			public const int qua001 = 2130771985;
+			
+			// aapt resource value: 0x7F010012
+			public const int rau001 = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int rau002 = 2130771987;
+			
+			// aapt resource value: 0x7F010014
+			public const int rau003 = 2130771988;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;
