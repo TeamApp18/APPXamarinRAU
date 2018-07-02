@@ -1,4 +1,5 @@
-﻿using System;
+﻿using projectmvvm.Service;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,18 @@ namespace projectmvvm.Pages
 		public LoginPages ()
 		{
 			InitializeComponent ();
+            navigationService = new NavigationService();
 		}
-	}
+
+        public NavigationService navigationService;
+        private async void ClickLogin(object sender, EventArgs e)
+        {
+            navigationService.SetLoign();
+        }
+
+        private void ClickCreate(object sender, EventArgs e)
+        {
+            navigationService.setCreate();
+        }
+    }
 }

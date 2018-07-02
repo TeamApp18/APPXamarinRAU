@@ -15,8 +15,12 @@ namespace projectmvvm
 		{
 			InitializeComponent();
 
-			MainPage = new LoginPages();
+			MainPage = new NavigationPage(new LoginPages());
 		}
+
+
+
+
 
 		protected override void OnStart ()
 		{

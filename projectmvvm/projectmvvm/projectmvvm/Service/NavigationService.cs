@@ -30,5 +30,20 @@ namespace projectmvvm.Service
                     break;
             }
         }
+
+        internal void SetAcesstCreate()
+        {
+            App.Current.MainPage = new Pages.MasterPage();
+        }
+
+        internal void setCreate()
+        {
+            App.Current.MainPage = new Pages.RegistrationPages();
+        }
+
+        internal void SetLoign()
+        {
+            App.Current.MainPage = new Pages.MasterPage();
+        }
     }
 }

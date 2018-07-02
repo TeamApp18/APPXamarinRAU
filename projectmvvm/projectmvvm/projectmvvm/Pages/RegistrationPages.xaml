@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projectmvvm.Pages.RegistrationPages"
+             BackgroundColor="#E0FFFF">
+    <ContentPage.Content>
+        <StackLayout Padding="10" Spacing="20">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Label Text="Shop Rau Sạch" TextColor="{StaticResource FontColor}" 
+                   FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center" />
+                <Image Source="ic_AppNew.png" WidthRequest="50" HeightRequest="50" HorizontalOptions="Center" VerticalOptions="Center"
+                    />
+            </StackLayout>
+            <BoxView HeightRequest="3" BackgroundColor="{StaticResource AccentColor}">
+            </BoxView>
+
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center" >
+                <Label Text="Create Your Password" FontAttributes="Bold" TextColor="Blue" FontSize="24"/>
+            </StackLayout>
+
+            <Label Text="Enter Email"/>
+            <Entry Placeholder="Email@gmail.com" TextColor="{StaticResource FontColor}"/>
+            <Label Text="Enter Password"/>
+            <Entry Placeholder="Password"  TextColor="{StaticResource FontColor}" IsPassword="True"/>
+            <Label Text="Re-enter Password"/>
+            <Entry Placeholder="Password"  TextColor="{StaticResource FontColor}" IsPassword="True"/>
+            <Button Text="Create Your Vegetables Accout" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Center" Clicked="ClickAcesstCreate"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+             
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

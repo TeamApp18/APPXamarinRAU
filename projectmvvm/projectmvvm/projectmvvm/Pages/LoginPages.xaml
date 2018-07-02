@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="projectmvvm.Pages.LoginPages"
              Title="Login Vegetables"
-             BackgroundColor="#FDF5E6"
+             BackgroundColor="#E0FFFF"
              BindingContext="{Binding Main, Source={StaticResource Locator}}">
     <ContentPage.Content>
         <StackLayout Padding="10" Spacing="20">
@@ -17,10 +17,14 @@
             </BoxView>
             <Entry Placeholder="Email@gmail.com" TextColor="{StaticResource FontColor}"/>
             <Entry Placeholder="Password"  TextColor="{StaticResource FontColor}" IsPassword="True"/>
-            <Button Text="Login" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Center"/>
-            <StackLayout Orientation="Horizontal" >
-                <Label Text="Remember Pass" TextColor="{StaticResource FontColor}" HorizontalOptions="StartAndExpand" VerticalOptions="Center"/>
-                <Switch HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+            <Button Text="Login" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Center" Clicked="ClickLogin"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Label Text="Remember Pass" TextColor="{StaticResource FontColor}" HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Switch HorizontalOptions="Center" VerticalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Create your Vegetables accout" VerticalOptions="Center" HorizontalOptions="Center"/>
+                <Button Text="Click here" TextColor="Red" BackgroundColor="#E0FFFF" Clicked="ClickCreate"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
